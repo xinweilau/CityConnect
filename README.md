@@ -46,7 +46,7 @@ The proposed solution is an app that allows users to login with SingPass (via Lo
 
 #### Video Demo
 
-![](https://drive.google.com/file/d/1EtS41dEUM3fLVp387XYZ_cD24aKo_IlU/view?usp=sharing)
+https://github.com/xinweilau/CityConnect/assets/12653324/baf78765-0254-49bd-84d5-b5582487da3b
 
 ### Remarks
 
