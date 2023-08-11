@@ -1,0 +1,6 @@
+[submodule "CityConnect_Mobile"]
+	path = CityConnect_Mobile
+	url = git@github.com:xinweilau/CityConnect_Mobile.git
+[submodule "CityConnect_Backend"]
+	path = CityConnect_Backend
+	url = git@github.com:xinweilau/CityConnect_Backend.git
