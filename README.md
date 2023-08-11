@@ -61,4 +61,4 @@ https://github.com/xinweilau/CityConnect/assets/12653324/556a1403-ac47-4b4e-b30e
 
 ### Remarks
 
-Unfortunately, I faced unexpected personal circumstances that prevented me from completing the assignment as intended. However, I'm genuinely enthusiastic about the National Digital Identity topic, and I believe that the proposal section I submitted reflects my dedication and interest. I hope my efforts in that aspect make up for the incomplete assignment. Thank you for your time and kind understanding.
+Unfortunately, I faced unexpected personal circumstances that prevented me from completing the assignment as intended. However, I'm genuinely enthusiastic to have the opportunity to join National Digital Identity, and I believe that the proposal section I submitted reflects my dedication and interest. I hope my efforts in that aspect make up for the incomplete assignment. Thank you for your time and kind understanding.
